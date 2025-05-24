@@ -60,7 +60,6 @@
 
 ## 📫 Connect with me
 
-## 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-komal-sathvik-a48a26303/?originalSubdomain=in" target="_blank">
