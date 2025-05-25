@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **MACHINE LEARNING AND ALGO** and **DSA IN JAVA** 
-- 👨‍💻 Working on projects using **MERN stack, **Python, and exploring** **AI-based tech** 
+- 👨‍💻 Working on projects using **MERN Stack**, **Python, and exploring** **AI-based tech** 
 - 💬 Ask me about **Web Development, Data Structures through java, Python, and Project Ideas**  
 - 📫 Reach me at: **mksathvik03@gmail.com** 
 - ⚡ Fun fact: I love developing things
