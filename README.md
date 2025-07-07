@@ -54,8 +54,8 @@
 
 ## 📊 GitHub Stats
 
-![Komal Sathvik GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsathvik&theme=dark&show_icons=true&hide_border=false)
 ![GitHub Streak](https://streak-stats.demolab.com?user=komalsathvik&theme=dark&hide_border=false)
+![Komal Sathvik GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsathvik&theme=dark&show_icons=true&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsathvik&layout=compact&theme=dark&hide_border=false)
 
 ---
