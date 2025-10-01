@@ -46,7 +46,8 @@
 ---
 
 ## 🔭 Projects & Highlights
-
+- 🎥 [ Clear Connect ](https://github.com/komalsathvik/Clear-Connect) — Full-stack web conferencing app powered by WebRTC & MERN with Google OAuth, JWT, real-time video/audio, chat, screen sharing, and dark/light theme support.
+- 🛒 [ Intel Hackathon Project ](https://github.com/komalsathvik/Intel-Product-Access) — Direct Intel product access platform with AI-powered chatbot (Google AI Studio), MERN stack backend, and secure purchase system.
 - 👨‍💻 [ StockNex ](https://github.com/komalsathvik/Stocknex) — MERN-based platform to track live stock trends with personalized dashboards and search functionality
 - 💬 [ Chat Application](https://github.com/komalsathvik/Chat-Application) — Real-time messaging app built with MERN & Socket.IO featuring user rooms.  
 - 🍔 [  FoodRestro ](https://github.com/komalsathvik/FoodRestro) — Online food application system using Node.js, MySQL, EJS, and Twilio for OTP-based login and order confirmations
