@@ -1,3 +1,5 @@
+[![An image of @komalsathvik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komalsathvik)](https://holopin.io/@komalsathvik)
+
 <h1 align="center">Hi 👋, I'm M.Komal Sathvik</h1>
 
 <h3 align="center">A passionate pre final-year CSE student at CVR COLLEGE OF ENGINEERING. Aspiring full-stack web developer and AI enthusiast.</h3>
