@@ -57,8 +57,10 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.vercel.app/?user=komalsathvik&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=komalsathvik&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ![Komal Sathvik GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsathvik&theme=dark&show_icons=true&hide_border=false)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsathvik&layout=compact&theme=dark&hide_border=false)
 
 ---
