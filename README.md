@@ -54,7 +54,15 @@
 - 💬 [ Chat Application](https://github.com/komalsathvik/Chat-Application) — Real-time messaging app built with MERN & Socket.IO featuring user rooms.  
 - 🍔 [  FoodRestro ](https://github.com/komalsathvik/FoodRestro) — Online food application system using Node.js, MySQL, EJS, and Twilio for OTP-based login and order confirmations
 ---
+---
 
+## 🧠 Data Structures & Algorithms
+
+I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorithmic skills.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/komalsathvik?theme=tokyonight&font=baloo&ext=heatmap)
+
+---
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats-ruby-tau.vercel.app?user=komalsathvik&theme=tokyonight&hide_border=true)
