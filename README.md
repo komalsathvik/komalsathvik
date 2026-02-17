@@ -60,7 +60,7 @@
 
 I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorithmic skills.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/komalsathvik?theme=tokyonight&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/komalsathvik?theme=dark&font=baloo&ext=heatmap)
 
 ---
 ## 📊 GitHub Stats
