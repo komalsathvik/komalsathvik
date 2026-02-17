@@ -57,12 +57,11 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=komalsathvik&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-ruby-tau.vercel.app?user=komalsathvik&theme=tokyonight&hide_border=true)
 
-![Komal Sathvik GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsathvik&theme=dark&show_icons=true&hide_border=false)
+![Top Languages](https://github-readme-stats-two-wine-66.vercel.app/api/top-langs/?username=komalsathvik&theme=tokyonight&hide_border=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsathvik&layout=compact&theme=dark&hide_border=false)
-
+![GitHub Stats](https://github-readme-stats-two-wine-66.vercel.app/api?username=komalsathvik&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&hide_border=true)
 ---
 
 ## 📫 Connect with me
