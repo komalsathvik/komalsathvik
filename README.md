@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm M.Komal Sathvik</h1>
 
-<h3 align="center">A passionate pre final-year CSE student at CVR COLLEGE OF ENGINEERING. Aspiring full-stack web developer and AI enthusiast.</h3>
+<h3 align="center">A passionate final-year CSE student at CVR COLLEGE OF ENGINEERING. Aspiring full-stack web developer and AI enthusiast.</h3>
 
 ## 🚀 About Me
 
