@@ -67,17 +67,22 @@ I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorit
 
 <div align="center">
 
-<!-- GitHub Stats -->
-https://github-readme-stats.vercel.app/api?username=komalsathvik
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komalsathvik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
-<!-- Streak -->
-https://streak-stats.demolab.com?user=komalsathvik
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalsathvik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-<!-- Top Languages -->
-https://github-readme-stats.vercel.app/api/top-langs/?username=komalsathvik&layout=compact
+</div>
 
-<!-- Trophies -->
-https://github-profile-trophy.vercel.app/?username=komalsathvik
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=komalsathvik&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=komalsathvik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
 </div>
 
 ## 📫 Connect with me
