@@ -69,7 +69,7 @@ I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorit
 
 ![GitHub Streak](https://github-readme-streak-stats-ruby-tau.vercel.app?user=komalsathvik&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats-gilt-beta-78.vercel.app/api?username=komalsathvik&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&hide_border=true)
+![GitHub Card](https://githubcard.com/komalsathvik.svg)
 ![Top Languages](https://github-readme-stats-gilt-beta-78.vercel.app/api/top-langs/?username=komalsathvik&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
