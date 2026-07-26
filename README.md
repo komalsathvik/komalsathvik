@@ -67,21 +67,20 @@ I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorit
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komalsathvik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komalsathvik&theme=tokyonight" width="100%" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalsathvik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<br><br>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komalsathvik&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komalsathvik&theme=tokyonight" width="49%" />
 
-<div align="center">
+<br><br>
 
-  <img src="https://streak-stats.demolab.com?user=komalsathvik&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=komalsathvik&theme=tokyonight&hide_border=true" width="70%" />
 
-</div>
+<br><br>
 
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=komalsathvik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=komalsathvik&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
