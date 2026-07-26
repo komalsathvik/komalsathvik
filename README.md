@@ -65,23 +65,13 @@ I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorit
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Streak](https://github-readme-streak-stats-ruby-tau.vercel.app?user=komalsathvik&theme=tokyonight&hide_border=true)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komalsathvik&theme=tokyonight" width="100%" />
+![GitHub Stats](https://github-readme-stats-gilt-beta-78.vercel.app/api?username=komalsathvik&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&hide_border=true)
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=komalsathvik&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komalsathvik&theme=tokyonight" width="49%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=komalsathvik&theme=tokyonight&hide_border=true" width="70%" />
-
-<br><br>
+![Top Languages](https://github-readme-stats-gilt-beta-78.vercel.app/api/top-langs/?username=komalsathvik&theme=tokyonight&hide_border=true&layout=compact)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=komalsathvik&theme=tokyo-night&hide_border=true" width="100%" />
-
 </div>
 
 ## 📫 Connect with me
