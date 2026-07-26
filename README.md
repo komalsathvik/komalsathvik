@@ -10,7 +10,7 @@
 - 👨‍💻 Working on projects using **MERN Stack**, **Next.js**, **Python (PyTorch, Flask)**, and exploring **Generative AI & RAG**
 - 💬 Ask me about **Web Development, Machine Learning, Data Structures through Java, Python, and Project Ideas**
 - 🏆 1st Place – CodeRift Hackathon (Ciencia, CVR College of Engineering, 2026)
-- 🧑‍💻 Leading the Web Team at **GDG on Campus CVR** since Oct 2024
+- 🧑‍💻 Leading the Web Team at **GDG on Campus CVR** 
 - 📫 Reach me at: **mksathvik03@gmail.com**
 - ⚡ Fun fact: I love developing things
 
@@ -19,7 +19,6 @@
 ## 📚 Education
 
 - **B.Tech, CSE**, **CVR College of Engineering** (2023 – 2027) — CGPA: 9.45 (up to 3rd year)
-- **Senior Secondary (Intermediate)**, **MIMS Junior College** (2021 – 2023) — 96.1%
 
 ---
 
